@@ -1,6 +1,6 @@
 # MIT Open Courseware
 
-All solutions were written in the template files given in the Exercise Files of the respective course. The content was distributed under a Creative Commons License by MIT. The original template file names were preserved in their respective course. 
+All solutions were written in the template files given in the **Assignments** section of each respective course. The content was distributed under a Creative Commons License by MIT. The original template file names were preserved in their respective course. 
 
 My implementation of a possible solution to problem sets for certain Course-6 courses on MIT OCW
 
